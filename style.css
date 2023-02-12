@@ -1,0 +1,11 @@
+.btn-fop{
+    border-radius: 0%;
+    border-color: none;
+    background-color: rgb(35, 91, 175);
+}
+.badge{
+    border-radius: 0%;
+    padding: 5px 10px;
+    align-items: center;
+    font-size: 15px;
+}
